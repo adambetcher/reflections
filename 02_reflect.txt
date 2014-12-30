@@ -5,4 +5,7 @@ Why do you need to do it?
 	It creates a space to hold your versions.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-	The staging area gives us the ability to package files ready to add to a new version without committing a new version.  That way we can check the package before committing.
+	The staging area gives us the ability to package files ready to add to a new version without committing a new version.  That way we can check the package before committin.
+
+How can you use the staging area to make sure you have one commit per logical change?
+	You can use the staging area to make sure one commit per logical change by putting the contents of a logical change into the staging area and then committing at the end of each logical change.
