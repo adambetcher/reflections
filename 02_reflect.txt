@@ -9,3 +9,6 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit per logical change?
 	You can use the staging area to make sure one commit per logical change by putting the contents of a logical change into the staging area and then committing at the end of each logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	Branches will help when one needs to try a change that is not ready for the main branch.  This will allow tests or specific demonstrations to be conducted.
