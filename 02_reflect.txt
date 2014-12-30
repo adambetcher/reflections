@@ -1,0 +1,8 @@
+What happens when you initialize a repository? 
+	It creates a .git folder and a repository for storing your files?
+
+Why do you need to do it?
+	It creates a space to hold your versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	The staging area gives us the ability to package files ready to add to a new version without committing a new version.  That way we can check the package before committing.
