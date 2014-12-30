@@ -1,0 +1,30 @@
+It was a lot of work to set up the folders with Bash.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?  
+	It allows me to reset from mistakes and also compare changes for reviews or demonstrations.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?  
+	Pros:  You can decide on the correct size of the commits.  
+	Cons:  You may forget to commit at the appropriate time.  Also, thinking about commit size increases the cognitive load of the developer.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Git is designed to support the development of software where there are multiple files to define a single entity.
+	Google Docs is designed to store single purpose files such as spreadsheets and documents.
+
+How can you use the commands git log and git diff to view the history of files?
+	Git log will list all of the change sets
+	Git diff will give you the differences between two change sets.
+	If you want to do both at the same time, use "Git log --stat" and then search for the changeset you want using :/{search term} to search from the current line or :/@{search term} to search from the beginning of the file
+
+How might using version control make you more confident to make changes that could break something?
+	Because I know that I can revert to the version before the bug was introduced.  It also allows me to see the changes that were made when the bug was introduced.
+	Of course I have to add that if there were appropriate tests set up along the way, the bug would have been caught as soon as it was introduced, iliminating the need for sifting through old versions to find it.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+	I want to use it for managing javascript files for the Udacity javascript and Jquery classes.
+
+What happens when you initialize a repository? 
+	It creates a .git folder and a repository for storing your files?
+
+Why do you need to do it?
+	It creates a space to hold your versions.
