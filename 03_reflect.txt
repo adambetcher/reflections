@@ -8,3 +8,8 @@ Why might you want to always pull changes manually rather than having Git automa
 with your remote repository?
   Pulling changes manually gives one the control to ignore work that others have posted on the repository 
   until one is ready for them.  Additionally always pulling might slow down git operations.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+  Forks create a related copy of an existing repository, 
+  clones create an unrelated copy of an existing repository and 
+  branches create a working copy of an existing commit.
