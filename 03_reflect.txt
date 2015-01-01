@@ -18,3 +18,9 @@ What is the benefit of having a copy of the last known state of the remote store
   If you want to work offline for any reason, 
   you can compare what you are working on with the last known state of the remote 
   if you have it stored locally.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+  There are several ways to collaborate without using a version management system like GitHub.  
+  They include, face to face communications, emailing, phone calls, IM and others.  
+  Without a version management system it would be more difficult to collaborate
+  especially when people have more than one thing to work on.
