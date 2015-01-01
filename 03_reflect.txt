@@ -24,3 +24,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
   They include, face to face communications, emailing, phone calls, IM and others.  
   Without a version management system it would be more difficult to collaborate
   especially when people have more than one thing to work on.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  You want to make changes in a separate branch when you are 
+  creating a new concept that you want to vett prior to commiting to the master branch.
